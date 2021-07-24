@@ -3,9 +3,10 @@
 
  <p align="center">
   <a href='https://github.com/onionj/pybotnet' target='_blank'><img src='https://s27389.pcdn.co/wp-content/uploads/2020/01/what-are-newest-cyber-attacks-look-out-for-1024x440.jpeg' border='0'/></a>  <h1    align="center">Bomb-Box</h1>
- <p/>
-
+ </p>
+<p aligen="center">
 This is a A tool for various cyber attacks with a telegram panel:)
+ </p>
 
 
 
