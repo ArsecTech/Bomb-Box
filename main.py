@@ -10,7 +10,7 @@ from time import sleep
 
 
 last_key=""
-token = "1917415700:AAHYtrUA2dQej6o5xuidXL3jwpD3ONQ6ExA"
+token = ""
 
 
 def send_bot(message):
